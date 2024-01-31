@@ -50,9 +50,9 @@ You can find a non-exclusive list of modules [here](https://caddyserver.com/down
 
 ## What's installed?
 
-- The caddy binary (modules included in the binary)
+- The caddy binary (modules are included in the binary)
 - Systemd service files for `caddy` and `caddy-api`
-- Sample `Caddyfile` in `/etc/caddy/` (only if it does not exist yet)
+- Sample `Caddyfile` in `/etc/caddy` (only if it does not exist yet)
 - Sample `index.html` in `/usr/share/caddy` (only if directory does not exist yet)
 
 ## Automated updates
