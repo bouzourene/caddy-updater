@@ -46,7 +46,7 @@ github.com/caddyserver/ntlm-transport
 github.com/caddy-dns/cloudflare
 github.com/mholt/caddy-webdav
 ```
-You can find a non-exclusive list of modules [here](https://caddyserver.com/download).
+You can find a non-exclusive list of modules [here](https://caddyserver.com/docs/modules/).
 
 ## What's installed?
 
